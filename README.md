@@ -31,4 +31,4 @@ I love building intelligent systems, solving real-world problems, and developing
 
 <img width="1897" height="1075" alt="image" src="https://github.com/user-attachments/assets/88d53fe5-1988-4cd0-a6ab-798b99a9688e" />
 
-![Website Preview][(preview.png) ](https://udhvarit.github.io/my-portfolio/) 
+[(Website Preview) ](https://udhvarit.github.io/my-portfolio/) 
